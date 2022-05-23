@@ -1,0 +1,8 @@
+class A{
+	public static void main(String []arg){
+		System.out.println("hello");
+		System.out.println("main starts" );
+		System.out.println("main method");
+		System.out.println("main method ends");
+}
+}
